@@ -3,5 +3,5 @@
 Technologies: JavaScript, HTML5, CSS3
 
 Link:
-https://sergii-b.github.io/OathJar-Invitation/
+https://sergiibzn.github.io/OathJar-Invitation/
 
